@@ -7,3 +7,4 @@ fck all mdfc
 Win to win
 ganar ganar
 to 10
+FInish win
